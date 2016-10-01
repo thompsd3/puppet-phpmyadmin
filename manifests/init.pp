@@ -1,5 +1,5 @@
 class phpmyadmin (
-	$php_version = "5.4.17",
+	$php_version = "5.6.11",
 	$src_dir = "${boxen::config::configdir}/phpmyadmin",
 	$source = "https://github.com/phpmyadmin/phpmyadmin.git"
 ) {
